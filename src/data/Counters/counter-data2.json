@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "value": 55,
+        "title": "Colabs",
+        "icon": "clock-time"
+    },
+    {
+        "id": 2,
+        "value": 15,
+        "title": "Clients",
+        "icon": "slightly-smile"
+    },
+    {
+        "id": 3,
+        "value": 15,
+        "title": "Teaching Roles",
+        "icon": "trophy"
+    },
+    {
+        "id": 4,
+        "value": 4,
+        "title": "Years",
+        "icon": "coffee-cup"
+    }
+]

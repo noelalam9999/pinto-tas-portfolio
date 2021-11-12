@@ -1,0 +1,49 @@
+[
+    
+    {
+        "id": 2,
+        "title": "Services",
+        "link": "/pages",
+        "megaMenu": false,
+        "subMenu": [
+       
+       
+            {
+                "id": 2.4,
+                "title": "Business Analyst",
+                "link": "/service/business-analyst"
+            },
+              
+            {
+                "id": 2.2,
+                "title": "Consultancy",
+                "link": "/service/consultancy",
+                "subMenu": [
+                    {
+                        "id": 2.21,
+                        "title": "Supply Chain",
+                        "link": "/service/supply-chain"
+                    },
+                    {
+                        "id": 2.22,
+                        "title": "Agency Business",
+                        "link": "/service/agency-business"
+                    },
+                    {
+                        "id": 2.22,
+                        "title": "Career",
+                        "link": "/service/career"
+                    }
+                ]
+            },
+            {
+                "id": 2.5,
+                "title": "Education",
+                "link": "/service/education"
+            }
+           
+           
+        ]
+    }
+   
+]

@@ -1,0 +1,26 @@
+[
+
+    {
+        "id": 4,
+        "name": "",
+        "role": "",
+        "image": "team/skills.png",
+        "social": [
+            {
+                "id": 1,
+                "icon": "facebook",
+                "link": "graceross"
+            },
+            {
+                "id": 2,
+                "icon": "twitter",
+                "link": "!#"
+            },
+            {
+                "id": 3,
+                "icon": "youtube",
+                "link": "!#"
+            }
+        ]
+    }
+]
