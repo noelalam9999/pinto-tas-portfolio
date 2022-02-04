@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 // Home pages
 import Home from "./pages/home/Home";
+import ServiceCreativeHome from "./pages/services/ServiceCreativeHome";
+import ServiceCreativeMentoring from "./pages/services/ServiceCreativeMentoring";
+import ServiceCreativeConsulting from "./pages/home/Consultancy";
 
 import CreativeAgency from "./pages/home/CreativeAgency";
 import SmallBusiness from "./pages/home/SmallBusiness";
@@ -31,7 +34,7 @@ import AboutUs from "./pages/about/AboutUs";
 import AboutCreative from "./pages/about/AboutCreative";
 import ServiceSimple from "./pages/services/ServiceSimple";
 import ServiceCreative from "./pages/services/ServiceCreative";
-import ServiceCreativeHome from "./pages/services/ServiceCreativeHome";
+
 import ContactSimple from "./pages/contact/ContactSimple";
 import ContactCreative from "./pages/contact/ContactCreative";
 import ContactCreativeHome from "./pages/contact/ContactCreativeHome";
@@ -108,6 +111,21 @@ function App() {
         <Switch>
           <Route exact path={`${process.env.PUBLIC_URL}/`} component={Home} />
           <Route exact path={`${process.env.PUBLIC_URL}/demos`} component={Demos} />
+          <Route
+            exact
+            path={`${process.env.PUBLIC_URL}/mentoring`}
+            component={ServiceCreativeMentoring}
+          />
+           <Route
+            exact
+            path={`${process.env.PUBLIC_URL}/get-in-touch`}
+            component={ContactCreativeHome}
+          />
+          <Route
+            exact
+            path={`${process.env.PUBLIC_URL}/consultancy`}
+            component={ServiceCreativeConsulting}
+          />
           <Route
             exact
             path={`${process.env.PUBLIC_URL}/creative-agency`}
@@ -233,11 +251,7 @@ function App() {
             path={`${process.env.PUBLIC_URL}/service-creative`}
             component={ServiceCreative}
           />
-            <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/service/:service`}
-            component={ServiceCreativeHome}
-          />
+          
           <Route
             exact
             path={`${process.env.PUBLIC_URL}/contact-simple`}
@@ -248,11 +262,7 @@ function App() {
             path={`${process.env.PUBLIC_URL}/contact-creative`}
             component={ContactCreative}
           />
-             <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/get-in-touch`}
-            component={ContactCreativeHome}
-          />
+            
           <Route
             exact
             path={`${process.env.PUBLIC_URL}/404-page`}

@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "value": 55,
-        "title": "Colabs",
+        "value": 4,
+        "title": "APAC Consulting Projects",
         "icon": "clock-time"
     },
     {
         "id": 2,
-        "value": 15,
-        "title": "Clients",
+        "value": 5,
+        "title": "University Training",
         "icon": "slightly-smile"
     },
     {
         "id": 3,
-        "value": 15,
-        "title": "Teaching Roles",
+        "value": 4,
+        "title": "International Case-competitions",
         "icon": "trophy"
     },
     {
         "id": 4,
-        "value": 4,
-        "title": "Years",
+        "value": 3,
+        "title": "Years of Experience",
         "icon": "coffee-cup"
     }
 ]

@@ -5,7 +5,7 @@ import Canvas from "../../elements/Canvas";
 
 const HeroSliderOne = forwardRef((props, ref) => {
 
-    const tags = ["CONSULTANT", "BUSINESS ANALYST", "EDUCATOR"];
+    const tags = ["CONSULTANT", "PMO", "MENTOR"];
 
   return (
     <section className="pt-0 pb-0" id="home" ref={ref}>

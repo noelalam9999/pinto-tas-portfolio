@@ -9,8 +9,8 @@ import TeamSlider from "../Team/TeamSlider";
 const WelcomeTwo = ({ toggler, handleToggler }) => (
   <section className="dark-bg pt-0 pb-0">
     <WelcomeSubsection
-      title="My Story"
-      tagline="How I became Pinto Tas"
+      title="My Journey"
+      tagline="A snippet of a snapshot"
       image={image}
       textButton="See Video"
       toggler={toggler}
@@ -37,7 +37,7 @@ const WelcomeTwo = ({ toggler, handleToggler }) => (
         </div>
         <WelcomeFeatures
           title="Experience"
-          tagline="My Professional Journey"
+          tagline="Notable steps in my journey"
         />
       </div>
     </div>

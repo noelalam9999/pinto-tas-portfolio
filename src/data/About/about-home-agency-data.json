@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "title": "Branding",
+    "title": "Road-map",
     "icon": "ui-theme",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+    "text": "A mentor helps you to build a road-map to your desired goal"
   },
   {
     "id": 2,
-    "title": "Design & Development",
+    "title": "Validate Ideas",
     "icon": "responsive",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+    "text": "They help you be sure that your idea is pitch-perfect"
   },
   {
     "id": 3,
-    "title": "Marketing",
+    "title": "Grow Connections",
     "icon": "zigzag",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+    "text": "They help you find the right person to talk to"
   }
 ]

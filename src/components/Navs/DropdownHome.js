@@ -38,6 +38,12 @@ const DropdownMenu = () => {
             </a>
        
           </li>
+          <li style={{marginTop:"2px"}} >
+            <a href="/consultancy" className="nav-link" data-toggle="dropdown">
+             Consultancy
+            </a>
+       
+          </li>
         {dataNav.map((dropdown, i) => (
           <li
             className={
@@ -62,20 +68,15 @@ const DropdownMenu = () => {
             )}
           </li>
         ))}
+      
           <li style={{marginTop:"2px"}} >
-            <a href="index" className="nav-link" data-toggle="dropdown">
-            Portfolio
-            </a>
-       
-          </li>
-          <li style={{marginTop:"2px"}} >
-            <a href="blogs" className="nav-link" data-toggle="dropdown">
+            <a href="/blogs" className="nav-link" data-toggle="dropdown">
             Blogs
             </a>
        
           </li>
           <li style={{marginTop:"2px"}} >
-            <a href="get-in-touch" className="nav-link" data-toggle="dropdown">
+            <a href="/get-in-touch" className="nav-link" data-toggle="dropdown">
              Contact
             </a>
        

@@ -12,7 +12,7 @@ import CountersThree from "../../components/Counters/CountersThree";
 import Portfolio from "../../components/Portfolio/PortfolioHome";
 import TabsIconSectionTwo from "../../components/Tabs/TabsIconSectionTwo";
 import CTATwo from "../../components/CTA/CTATwo";
-import TestimonialsOne from "../../components/Testimonials/TestimonialsOne";
+import TestimonialsOne from "../../components/Testimonials/TestimonialsHome";
 import FooterOne from "../../components/Footer/FooterOne";
 
 const MinimalDesign = () => {
@@ -38,8 +38,8 @@ const MinimalDesign = () => {
       <WelcomeTwo toggler={toggler} handleToggler={handleToggler} />
       <CountersThree type="wide" />
       <TestimonialsOne
-        title="Testimonials"
-        tagline="What its like working with me"
+        title="My Values"
+        tagline="Dive deeper into my brain"
         font="cardo-font"
       />
       <Portfolio columns="3" layout="wide" items="6" classAppend="pt-0" />

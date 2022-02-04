@@ -12,7 +12,7 @@ const AboutUsOne = ({
   setToggler,
 }) => {
   return (
-    <section className="white-bg">
+    <section className="padding-top padding-bottom white-bg">
       <div className="container">
         <div className="row">
           <div

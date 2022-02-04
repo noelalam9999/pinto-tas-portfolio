@@ -4,24 +4,10 @@ import AccordionsComponent from "../Accordions/AccordionsComponent";
 import Icofont from "react-icofont";
 
 const AboutUsTwo = ({ title, image, toggler, setToggler }) => (
-  <section className="white-bg">
+  <section style={{paddingTop:'0px!important'}} className="padding-top padding-bottom white-bg">
     <div className="container">
       <div className="row">
-        <div className="col-md-6">
-          <h2
-            className="text-uppercase font-700 mt-0"
-            data-aos-delay={500}
-            data-aos={"fade-up"}
-            data-aos-easing={"ease-in-sine"}
-          >
-            {title}
-          </h2>
-          <AccordionsComponent
-            data={dataAccordion}
-            classAppend="mt-50"
-            items={3}
-          />
-        </div>
+        
         <div className="col-md-6">
           <div className="arcon-video-box mt-30">
             <img className="img-fluid" src={image} alt="" />
@@ -44,6 +30,21 @@ const AboutUsTwo = ({ title, image, toggler, setToggler }) => (
               </div>
             </div>
           </div>
+        </div>
+        <div className="col-md-6">
+          <h2
+            className="text-uppercase font-700 mt-0"
+            data-aos-delay={500}
+            data-aos={"fade-up"}
+            data-aos-easing={"ease-in-sine"}
+          >
+            {title}
+          </h2>
+          <AccordionsComponent
+            data={dataAccordion}
+            classAppend="mt-50"
+            items={3}
+          />
         </div>
       </div>
     </div>

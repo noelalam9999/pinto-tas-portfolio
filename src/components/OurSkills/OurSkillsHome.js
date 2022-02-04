@@ -3,7 +3,7 @@ import dataProgress from "../../data/OurSkills/skills-data.json";
 import ProgressBar from "../../elements/ProgressBar";
 
 const OurSkillsOne = ({ classAppend, font }) => (
-        dataProgress.filter((v,i) => i < 5).map((bar) => (
+        dataProgress.filter((v,i) => i < 6).map((bar) => (
         <ProgressBar
           key={bar.id}
           title={bar.title}

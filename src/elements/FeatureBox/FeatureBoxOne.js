@@ -9,7 +9,7 @@ const FeatureBoxOne = ({ icon, title, children,year , index }) => (
     data-aos-duration={1000}
   >
     <div className="float-left">
-    <img src={icon} alt="Girl in a jacket" width="60" height="60"/> 
+    <img style={{borderRadius:"10px", paddingBottom:"5px"}} src={icon} alt="Girl in a jacket" width="60" height="60"/> 
     </div>
     <div className="float-right">
       <h3 className="mt-0 cardo-font">{title}</h3>

@@ -1,34 +1,34 @@
 [
   {
     "id": 1,
-    "title": "UI / UX Design",
-    "percentage": 80
+    "title": "Management Consulting",
+    "percentage": 90
   },
   {
     "id": 2,
-    "title": "Web Development",
-    "percentage": 55
+    "title": "Agile Project Management",
+    "percentage": 80
   },
   {
     "id": 3,
-    "title": "jQuery",
+    "title": "Process Management and Improvement",
     "percentage": 75
   },
   {
     "id": 4,
-    "title": "Branding",
-    "percentage": 99,
+    "title": "Powerpoint Designer",
+    "percentage": 90,
     "color": "#d9534f"
   },
   {
     "id": 5,
-    "title": "App Development",
-    "percentage": 48
+    "title": "Design Thinking",
+    "percentage": 75
   },
   {
     "id": 6,
-    "title": "UI / UX Design",
-    "percentage": 80
+    "title": "Video Editing",
+    "percentage": 55
   },
   {
     "id": 7,

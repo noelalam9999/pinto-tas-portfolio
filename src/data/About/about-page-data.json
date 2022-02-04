@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "WEB DESIGN",
-    "text": "Designing a good website that accommodates a lot of content is a tricky balancing act to pull off.",
+    "title": "Financial Planning and Analysis",
+    "text": "Planning and budgeting, integrated financial planning, management and performance reporting",
     "icon": "diamond"
   },
   {
     "id": 2,
-    "title": "APP DEVELOPMENT",
-    "text": "We build mobile apps for the conference, integrating unique content and branding to create.",
+    "title": "Comparable Company Analysis",
+    "text": "Process used to evaluate the value of a company using the metrics of other businesses of similar size in the same industry",
     "icon": "paint"
   },
   {
     "id": 3,
-    "title": "DIGITAL MARKETING",
-    "text": "Google has made this important since 1998 when it launched. Content became, and still is king since websites.",
+    "title": "Private Equity",
+    "text": "Brings an expert, external perspective to a PE firm's internal decisions",
     "icon": "rocket-alt-2"
   },
   {
     "id": 4,
-    "title": "UI / UX FRIENDLY",
-    "text": "UX design refers to the term user experience design, while UI design stands for user interface design.",
+    "title": "Venture Capital",
+    "text": "Give in-dept analysis on your general operations, VC accounting, and financial modeling,",
     "icon": "laptop-alt"
   }
 ]

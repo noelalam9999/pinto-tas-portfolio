@@ -4,20 +4,49 @@
     "avatar": "team/avatar-1.jpg",
     "name": "Michael Hans",
     "role": "Founder & CEO of Scoda",
-    "text": "Quisque hendrerit turpis sit amet tortor condimentum, nec commodo lorem condimentum. Sed id diam efficitur, mattis tellus ac, malesuada purus. In ultrices nisl sed eleifend consequat."
+    "text": "We want to be happy but what is happiness?",
+    "link":"https://www.happinesslab.fm/"
   },
   {
     "id": 2,
     "avatar": "team/avatar-2.jpg",
     "name": "Jane Beck",
     "role": "CEO of Scoda",
-    "text": "Quisque hendrerit turpis sit amet tortor condimentum, nec commodo lorem condimentum. Sed id diam efficitur, mattis tellus ac, malesuada purus. In ultrices nisl sed eleifend consequat."
+    "text": "What’s my relationship with my (limited) time?",
+    "link":"https://getpocket.com/read/3457978370"
   },
   {
     "id": 3,
     "avatar": "team/avatar-3.jpg",
     "name": "Kevin Hall",
     "role": "CEO of Scoda",
-    "text": "Quisque hendrerit turpis sit amet tortor condimentum, nec commodo lorem condimentum. Sed id diam efficitur, mattis tellus ac, malesuada purus. In ultrices nisl sed eleifend consequat."
+    "text": "Pillar of self-awareness: Writing",
+    "link":"https://theconversation.com/writing-can-improve-mental-health-heres-how-162205?utm_source=pocket&utm_medium=email&utm_campaign=pockethits"
+  },
+  {
+    "id": 4,
+    "avatar": "team/avatar-3.jpg",
+    "name": "Kevin Hall",
+    "role": "CEO of Scoda",
+    "text": "Pillar of knowledge: Reading",
+    "link":"https://www.huffpost.com/entry/the-reading-habits-of-ult_b_9688130"
+  },
+  {
+    "id": 5,
+    "avatar": "team/avatar-3.jpg",
+    "name": "Kevin Hall",
+    "role": "CEO of Scoda",
+    "text": "Pillar of kindness: Volunteering",
+    "link":"https://www.handsonhongkong.org/benefits-of-volunteering"
+  },
+  {
+    "id": 6,
+    "avatar": "team/avatar-3.jpg",
+    "name": "Kevin Hall",
+    "role": "CEO of Scoda",
+    "text": "Dogs? Yes.",
+    "link":"https://getpocket.com/read/2991484249"
   }
+
+
 ]

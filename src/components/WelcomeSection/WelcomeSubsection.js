@@ -23,7 +23,7 @@ const WelcomeSubsection = ({
             {title}
           </h2>
           <h4
-            className="text-uppercase default-color cardo-font"
+            className="default-color cardo-font"
             data-aos={"fade-up"}
             data-aos-delay={200}
             data-aos-duration={1000}

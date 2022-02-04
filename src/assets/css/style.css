@@ -13,6 +13,10 @@
   background-image: url("https://res.cloudinary.com/dl2tsdbcf/image/upload/v1636317591/IMG-20210710-WA0016_1_tlhrfy.png");
 }
 
+.consultancy-banner{
+  background-image: url("https://res.cloudinary.com/american-international-university-bangladesh/image/upload/v1642607845/IMG_9411_lkmqkr.jpg");
+}
+
 .animate-caption{
   text-align:left!important;
 }
@@ -576,7 +580,12 @@ a.isDisabled:focus {
   border: 1px solid var(--main-color);
   color: #fff;
 }
-
+.padding-top{
+  padding-top:50px!important
+}
+.padding-bottom{
+  padding-bottom:50px!important
+}
 /* Disable hover navbar in mobile mode*/
 @media (min-width: 994px) {
   .sidebar-nav {
